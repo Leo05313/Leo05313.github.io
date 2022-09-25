@@ -20,4 +20,4 @@
 
 <h2>Hi! My name is Leo! I'm 17 years old. Born in 05, March 13th (Thats where i got the name from) My pronouns are He/Him</h2>
 <br>
-<h3>Oh, and im diagnossed with HDHD and autism :D</h3>
+<h3>Oh, and im diagnossed with ADHD and autism :D</h3>
